@@ -15,3 +15,11 @@ This repository includes a Jupyter Notebook that presents a step-by-step guide t
 
 #### Regression Homocedastic Residuals 
 ![RegressionResidual](/imgs/LinearResidual.png)
+
+
+## Projects
+### [2. Deep Learning Classification Pytorch - MNIST](https://github.com/ViniNazato/DeepLearningMNIST)
+This repository contains a simple Python implementation using PyTorch for the classification of the MNIST dataset. The MNIST dataset is a collection of 28x28 pixel grayscale images of handwritten digits (0 through 9), widely used for training various image processing systems. It aims to demonstrate a basic image classification pipeline using PyTorch, a popular deep learning framework. The model is a Multilayer Perceptron (MLP) designed to classify handwritten digits.
+
+#### Representation of a Feed Forward Artificial Neural Network (FF-ANN)
+![MLP](/imgs/MLP.png)
