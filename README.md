@@ -12,4 +12,5 @@ My journey into the world of data science started at the University of São Paul
 In this repository you will find a comprehensive introduction to Linear Regression with Python, where i will focus on Ordinary Least Squares (OLS) Linear Regression, **the** essential machine learning model. While not mandatory, having a basic understanding of statistics would be beneficial for grasping the concepts discussed.Linear regression is a widely-used statistical technique that establishes a relationship between a dependent variable and one or more independent variables. OLS regression, in particular, minimizes the sum of squared differences between the predicted and actual values of the dependent variable. Understanding linear regression is crucial for constructing more advanced models and analyzing real-world problems in various domains, such as marketing, finance, healthcare, and social sciences.
 
 This repository includes a Jupyter Notebook that presents a step-by-step guide to creating and interpreting a linear regression model using Python and the statsmodels library. 
+
 ![LinearHomocedasticResiduals](/imgs/LinearResidual.png)
