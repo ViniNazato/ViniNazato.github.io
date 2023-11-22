@@ -13,4 +13,4 @@ In this repository you will find a comprehensive introduction to Linear Regressi
 
 This repository includes a Jupyter Notebook that presents a step-by-step guide to creating and interpreting a linear regression model using Python and the statsmodels library. 
 
-![RegressionResidual](/imgs/LinearResidual.png)
+#### Regression Homocedastic Residuals ![RegressionResidual](/imgs/LinearResidual.png)
