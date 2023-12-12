@@ -34,4 +34,4 @@ This repository contains code and resources related to Cointegration Pair Tradin
 This project is dedicated to the forecast analysis of the OECD Industrial Production using two distinct models: ARIMA (AutoRegressive Integrated Moving Average) based on the Box & Jenkins Methodology, and a Multi-Layer Perceptron (MLP) Neural Network. The primary objective is to compare the performance of these models in forecasting industrial production and provide insights into their accuracy. After extensive analysis and evaluation, the results indicate that the MLP Neural Network outperformed the ARIMA model in terms of forecasting accuracy. However, it's noteworthy that both models exhibit the same statistical accuracy, according to the Diebold-Mariano test.
 
 #### Prediction and Actual Values for Industrial Production Output
-![Pred](/imgs/prediction.png)
+![Pred](/imgs/predictions.png)
