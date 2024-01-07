@@ -1,5 +1,5 @@
 title: Vinícius Nazato
-logo: "/img/profile.jpeg"
+logo: /img/profile.jpeg
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
