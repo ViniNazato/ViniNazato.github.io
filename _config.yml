@@ -2,5 +2,13 @@ title: Vinícius R. S. Nazato
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
-logo: img/profile.jpeg
-
+logo: "img/profile.jpeg"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
+  Welcome to my portfolio page!
+  <br><br>
+  My name is Vinícius Nazato, a passionate data scientist with a curiosity for solving complex problems using data-driven approaches.
+  <br><br>
+  Contact me to talk about the specifics of my projects.
+  <br><br>
+  <a href="https://www.linkedin.com/in/vinicius-nazato/">View my LinkedIn profile</a
