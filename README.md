@@ -1,6 +1,8 @@
 # Data Scientist
 ![banner](/imgs/banner.png)
+
 ---
+
 ### About Me
 My journey into the world of data science started at the University of São Paulo, where I received my Business Degree. It all began when I started experimenting with basic applications for constructing pipelines/procedures, like Excel's VBA, and I discovered just how powerful programming can be. Since then, I have come a long way, learning about data analysis and machine learning (and its fundamental foundation in statistics and linear algebra, which is often neglected), and started to make some projects of my own, often, but not limited, in the field of econometrics. Here, you will be able to check out some of these projects!
 
