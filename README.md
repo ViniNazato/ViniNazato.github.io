@@ -1,4 +1,4 @@
-# Data Scientist
+# Financial Data Scientist
 ![banner](/imgs/banner.png)
 
 ---
