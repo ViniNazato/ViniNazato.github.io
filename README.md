@@ -4,7 +4,11 @@
 ---
 
 ### About Me
-My journey into the world of data science started at the University of São Paulo, where I received my Business Degree. It all began when I started experimenting with basic applications for constructing pipelines/procedures, like Excel's VBA, and I discovered just how powerful programming can be. Since then, I have come a long way, learning about data analysis and machine learning (and its fundamental foundation in statistics and linear algebra, which is often neglected), and started to make some projects of my own, often, but not limited, in the field of econometrics. Here, you will be able to check out some of these projects!
+I am a dedicated Financial Data Scientist with a robust foundation in statistics and econometrics. My expertise lies in leveraging data-driven insights to solve complex financial problems and drive strategic decision-making. Proficient in statistical modeling, predictive analytics, and economic theory, I excel at interpreting large datasets and transforming them into actionable intelligence using tools like Python, R, and SQL. With experience spanning investment banking, asset management, and financial consulting, I have a proven track record of delivering impactful solutions that enhance financial performance, manage risk, and uncover hidden opportunities.
+
+I am continually driven by the dynamic nature of the financial world and the possibilities that data science offers to innovate and improve financial strategies. An effective communicator, I translate complex statistical findings into clear insights for stakeholders. Outside of work, I stay current with the latest research in finance and data science.
+
+My journey into financial data science began at the University of São Paulo, where I earned my Business degree and where I am currently pursuing a Master's degree in Quantitative Finance. It all started with experimenting with basic tools like Excel's VBA to construct pipelines and procedures. This experience revealed to me the immense power of programming. Since then, I have delved deeply into data analysis and machine learning, discovering the crucial importance of their foundations in statistics and linear algebra, which are often overlooked. Here, you will be able to check out some of these projects!
 
 ## Data Science Projects
 ---
@@ -14,7 +18,7 @@ In this repository you will find a comprehensive introduction to Linear Regressi
 
 This repository includes a Jupyter Notebook that presents a step-by-step guide to creating and interpreting a linear regression model using Python and the statsmodels library. 
 
-#### Regression Homocedastic Residuals 
+#### Regression Residuals 
 ![RegressionResidual](/imgs/LinearResidual.png)
 
 ### [2. Deep Learning Classification Pytorch - MNIST](https://github.com/ViniNazato/DeepLearningMNIST)
@@ -37,6 +41,10 @@ This project is dedicated to the forecast analysis of the OECD Industrial Produc
 #### Prediction and Actual Values for Industrial Production Output
 ![Pred](/imgs/predictions.png)
 
-## Data Analytics Projects
----
-To do...
+## Repository for Financial Econometrics Lessons (currently in progress) (https://github.com/ViniNazato/FinancialEconometrics)
+This repository contains materials related to Financial Econometrics and Risk Management. It will cover various important topics for understanding and modeling financial series in different contexts. More than anything, these materials are designed to reinforce the content. It is advisable to follow along with a base textbook (In Portuguese Brazil).
+
+### [1. Market Risk Modelling](https://github.com/ViniNazato/FinancialEconometrics/tree/main/Risk%20Modelling)
+This folder contains materials on financial risk management, including notebooks on Properties of Returns, Conditional Volatility, Value at Risk, and Extreme Value Theory.
+
+
