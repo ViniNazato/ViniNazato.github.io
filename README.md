@@ -39,7 +39,7 @@ This project is dedicated to the forecast analysis of the OECD Industrial Produc
 #### Prediction and Actual Values for Industrial Production Output
 ![Pred](/imgs/predictions.png)
 
-## Repository for Financial Econometrics Lessons (currently in progress) (https://github.com/ViniNazato/FinancialEconometrics)
+## [Repository for Financial Econometrics Lessons](https://github.com/ViniNazato/FinancialEconometrics) (currently in progress) 
 This repository contains materials related to Financial Econometrics and Risk Management. It will cover various important topics for understanding and modeling financial series in different contexts. More than anything, these materials are designed to reinforce the content. It is advisable to follow along with a base textbook (In Portuguese Brazil).
 
 ### [1. Market Risk Modelling](https://github.com/ViniNazato/FinancialEconometrics/tree/main/Risk%20Modelling)
